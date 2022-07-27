@@ -1,0 +1,23 @@
+{
+  "name": "rest-rant",
+  "version": "1.0.0",
+  "description": "REST-Rant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronak0527/REST-Rant-Part-1.git"
+  },
+  "author": "Ronak Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronak0527/REST-Rant-Part-1/issues"
+  },
+  "homepage": "https://github.com/ronak0527/REST-Rant-Part-1#readme",
+  "dependencies": {
+    "express-react-views": "^0.11.0",
+    "react": "^18.2.0"
+  }
+}
